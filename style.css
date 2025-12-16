@@ -35,13 +35,14 @@ h1 {
 }
 
 button {
-  background-color: #22c55e;
+  background-color: #131313;
   border: none;
   padding: 12px 24px;
   font-size: 1rem;
   border-radius: 8px;
   cursor: pointer;
   transition: 0.3s;
+  color: whitesmoke;
 }
 
 button:hover {
